@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class Q1 {
     private static int middle(int[] triple) {
         int maxidx = 0;
         int minidx = 0;
